@@ -1,0 +1,5 @@
+baseURL = 'https://pankajtech.com/'
+languageCode = 'en-us'
+title = 'My Life Story'
+theme = 'ananke'
+
