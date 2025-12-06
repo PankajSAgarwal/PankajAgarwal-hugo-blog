@@ -1,10 +1,8 @@
 +++
 date = '2025-12-06T16:21:02+05:30'
 draft = false
-title = 'Why Model Context Protocol Is the Game-Changer for AI Integration: From Function Calling to Agentic AI'
+title = 'Model Context Protocol: From Function Calling to Agentic AI'
 +++
-# Model Context Protocol: From Function Calling to Agentic AI
-
 ## Introduction
 
 When large language models (LLMs) first emerged, they revolutionized text generation but lacked true instruction-following capabilities. Early LLMs often responded based on statistical likelihood rather than following clear commands.
